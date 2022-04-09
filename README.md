@@ -1,6 +1,7 @@
-### Cześć! 👋
-Jestem **Mamutek** 
+### Hi! 👋
+I'am **Mamutek**
 
+- 🇵🇱 Polish Developer
 - 🔥 Developer on FlameCode:
 https://dsc.gg/flamecode
 - 👑 Currently working on ClanCraft:
